@@ -4,9 +4,11 @@ Companion app for the dev.to post [Jetpack Compose and WindowSize Classes](https
 
 WindowSize classes are [here](https://github.com/erdo/compose-windowsize/tree/main/app/src/main/java/foo/bar/compose/ui/size)
 
-![Example app showing a UI which adjusts itself based on how much screen it has available](responsive_ui_short.gif)
 ![preview view showing multiple renders on different screen sizes](previews.png)
 ![range of different device screens](device_sample.png)
+![example app showing a UI which adjusts itself based on how much screen it has available](responsive_ui_short.gif)
+![venn diagram of devices <600dp in width](venn_diag.png)
+![pop-up mode example](pop-up_view.png)
 
 ## License
 
