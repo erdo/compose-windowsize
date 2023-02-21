@@ -1,6 +1,6 @@
 # Jetpack Compose and WindowSize Classes
 
-Companion app for the dev.to post [Jetpack Compose and WindowSize Classes](https://dev.to/erdo/jetpack-compose-and-responsive-layouts-3h98)
+Companion app for the dev.to post [Jetpack Compose and WindowSize Classes](https://dev.to/erdo/jetpack-compose-and-windowsize-classes-gb4)
 
 WindowSize classes are [here](https://github.com/erdo/compose-windowsize/tree/main/app/src/main/java/foo/bar/compose/ui/size)
 
